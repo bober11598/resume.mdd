@@ -1,4 +1,3 @@
-# resume.md
 Mason Smith
 
 massmith115@gmail.com
